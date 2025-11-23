@@ -1,0 +1,1160 @@
+{
+    "generated_on": "2025-11-23",
+    "by": "nigthhawks x cheat",
+    "brands": {
+        "Apple": {
+            "iPhone 6s": {
+                "class": "low-end",
+                "sensitivity_0_200": {
+                    "general": 200,
+                    "red_dot": 196,
+                    "two_x": 194,
+                    "four_x": 190,
+                    "sniper": 186,
+                    "free_look": 195
+                },
+                "sensitivity_0_100": {
+                    "general": 100,
+                    "red_dot": 98,
+                    "two_x": 97,
+                    "four_x": 95,
+                    "sniper": 93,
+                    "free_look": 97.5
+                },
+                "notes": "Older device; higher overall to counter lag — expect to lower for control."
+            },
+            "iPhone 7": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Good starting point for older but capable iPhones."
+            },
+            "iPhone 8": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Solid balance for stable aim."
+            },
+            "iPhone X": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 183,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 91.5,
+                    "free_look": 93
+                },
+                "notes": "High-end class — good for balanced play and flicks."
+            },
+            "iPhone XR": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 182,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91,
+                    "free_look": 93
+                },
+                "notes": "Good balance for XR hardware."
+            },
+            "iPhone 11": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 182,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91,
+                    "free_look": 92.5
+                },
+                "notes": "High performance; slightly lower sniper for steadiness."
+            },
+            "iPhone 12": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 183,
+                    "sniper": 181,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 91.5,
+                    "sniper": 90.5,
+                    "free_look": 92.5
+                },
+                "notes": "Great touch and refresh; tuned for accuracy."
+            },
+            "iPhone 13 / 13 Pro": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 188,
+                    "red_dot": 186,
+                    "two_x": 185,
+                    "four_x": 183,
+                    "sniper": 180,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94,
+                    "red_dot": 93,
+                    "two_x": 92.5,
+                    "four_x": 91.5,
+                    "sniper": 90,
+                    "free_look": 92.5
+                },
+                "notes": "Ultra-class responsiveness; keep scope sens slightly lower for long-range."
+            },
+            "iPhone 14 / 14 Pro": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 188,
+                    "red_dot": 186,
+                    "two_x": 185,
+                    "four_x": 183,
+                    "sniper": 180,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94,
+                    "red_dot": 93,
+                    "two_x": 92.5,
+                    "four_x": 91.5,
+                    "sniper": 90,
+                    "free_look": 92.5
+                },
+                "notes": "High touch accuracy and refresh-rate support."
+            },
+            "iPhone 15 / 15 Pro / 15 Pro Max": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 187,
+                    "red_dot": 185,
+                    "two_x": 184,
+                    "four_x": 183,
+                    "sniper": 180,
+                    "free_look": 184
+                },
+                "sensitivity_0_100": {
+                    "general": 93.5,
+                    "red_dot": 92.5,
+                    "two_x": 92,
+                    "four_x": 91.5,
+                    "sniper": 90,
+                    "free_look": 92
+                },
+                "notes": "Latest iPhones — very responsive. Slightly lower general to favor precision."
+            }
+        },
+        "Samsung": {
+            "Galaxy S8": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Older S-series — mid-range tuning."
+            },
+            "Galaxy S9": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Good balance for S9 hardware."
+            },
+            "Galaxy S10 / S10+": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 183,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 91.5,
+                    "free_look": 93
+                },
+                "notes": "High performance for gaming."
+            },
+            "Galaxy S20 / S20 FE": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 184,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 92,
+                    "free_look": 93
+                },
+                "notes": "High refresh supported."
+            },
+            "Galaxy S21 / S21 Ultra": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 183,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91.5,
+                    "free_look": 92.5
+                },
+                "notes": "Ultra class — excellent touch and refresh, good for precise flicks."
+            },
+            "Galaxy S22 / S22 Ultra": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 188,
+                    "red_dot": 186,
+                    "two_x": 185,
+                    "four_x": 182,
+                    "sniper": 180,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94,
+                    "red_dot": 93,
+                    "two_x": 92.5,
+                    "four_x": 91,
+                    "sniper": 90,
+                    "free_look": 92.5
+                },
+                "notes": "High-end Samsung tuning for stable long-range aim."
+            },
+            "Galaxy S23 / S23 Ultra": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 188,
+                    "red_dot": 186,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 184,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 94,
+                    "red_dot": 93,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 92,
+                    "free_look": 93
+                },
+                "notes": "Top-tier Galaxy devices — tuned for competitive play."
+            },
+            "Galaxy A10 / A10s": {
+                "class": "low-end",
+                "sensitivity_0_200": {
+                    "general": 200,
+                    "red_dot": 196,
+                    "two_x": 194,
+                    "four_x": 190,
+                    "sniper": 186,
+                    "free_look": 195
+                },
+                "sensitivity_0_100": {
+                    "general": 100,
+                    "red_dot": 98,
+                    "two_x": 97,
+                    "four_x": 95,
+                    "sniper": 93,
+                    "free_look": 97.5
+                },
+                "notes": "Budget device — higher values to offset lag."
+            },
+            "Galaxy A12 / A13": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Good mid-tier balance."
+            },
+            "Galaxy A32 / A33 / A34": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Balanced mid-range settings."
+            },
+            "Galaxy A52 / A52s": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 183,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 91.5,
+                    "free_look": 93
+                },
+                "notes": "A-series higher trims perform well for gaming."
+            }
+        },
+        "Xiaomi": {
+            "Mi 8": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Older flagship-level performance."
+            },
+            "Mi 9 / Mi 9T": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 183,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 91.5,
+                    "free_look": 93
+                },
+                "notes": "Good flick and tracking balance."
+            },
+            "Mi 10 / Mi 10T": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 183,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91.5,
+                    "free_look": 92.5
+                },
+                "notes": "High-refresh capable devices—tuner-friendly."
+            },
+            "Redmi Note 7 / 8": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Popular midrange devices — tuned for usability."
+            },
+            "Redmi Note 9 / Note 9S": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Stable mid-range config."
+            },
+            "Redmi Note 10 / Note 10 Pro": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 93
+                },
+                "notes": "Good combination of speed and control."
+            },
+            "Redmi Note 11 / Note 11 Pro": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 186,
+                    "four_x": 183,
+                    "sniper": 178,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93,
+                    "four_x": 91.5,
+                    "sniper": 89,
+                    "free_look": 93
+                },
+                "notes": "Modern midrange tuning."
+            },
+            "Poco F1": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Popular budget performance phone—adjustably fast."
+            },
+            "Poco X3 / X5": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Gaming-centric midrange; keep sens balanced."
+            }
+        },
+        "OnePlus": {
+            "OnePlus 6 / 6T": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 183,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 91.5,
+                    "free_look": 93
+                },
+                "notes": "Flagship-era OnePlus performance."
+            },
+            "OnePlus 7 / 7T / 7 Pro": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 182,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91,
+                    "free_look": 92.5
+                },
+                "notes": "High-refresh capability makes these device-friendly for FPS."
+            },
+            "OnePlus 8 / 8T / 9 / 9 Pro": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 188,
+                    "red_dot": 186,
+                    "two_x": 185,
+                    "four_x": 183,
+                    "sniper": 180,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94,
+                    "red_dot": 93,
+                    "two_x": 92.5,
+                    "four_x": 91.5,
+                    "sniper": 90,
+                    "free_look": 92.5
+                },
+                "notes": "Modern OnePlus devices are gaming-optimized — keep scope sens controlled."
+            },
+            "OnePlus Nord series": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Solid midrange tuning for Nord phones."
+            }
+        },
+        "Realme": {
+            "Realme 3 / 5": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Budget to midrange Realme — tuned for snappy aim."
+            },
+            "Realme 6 / 7 / 8": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Fast midrange devices — good for tracking."
+            },
+            "Realme GT / GT Neo": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 183,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91.5,
+                    "free_look": 92.5
+                },
+                "notes": "Gaming-first hardware — tuned for precision and speed."
+            }
+        },
+        "Oppo": {
+            "Oppo A-series (A3x/A5/A7)": {
+                "class": "low-end",
+                "sensitivity_0_200": {
+                    "general": 200,
+                    "red_dot": 196,
+                    "two_x": 194,
+                    "four_x": 190,
+                    "sniper": 186,
+                    "free_look": 195
+                },
+                "sensitivity_0_100": {
+                    "general": 100,
+                    "red_dot": 98,
+                    "two_x": 97,
+                    "four_x": 95,
+                    "sniper": 93,
+                    "free_look": 97.5
+                },
+                "notes": "Budget Oppo phones benefit from higher sensitivity starting points."
+            },
+            "Oppo Reno series": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 188,
+                    "red_dot": 185,
+                    "two_x": 183,
+                    "four_x": 180,
+                    "sniper": 178,
+                    "free_look": 184
+                },
+                "sensitivity_0_100": {
+                    "general": 94,
+                    "red_dot": 92.5,
+                    "two_x": 91.5,
+                    "four_x": 90,
+                    "sniper": 89,
+                    "free_look": 92
+                },
+                "notes": "Good touch; tune down sniper for steadiness."
+            }
+        },
+        "Vivo": {
+            "Vivo Y-series (Y11/Y12/Y15)": {
+                "class": "low-end",
+                "sensitivity_0_200": {
+                    "general": 200,
+                    "red_dot": 196,
+                    "two_x": 194,
+                    "four_x": 190,
+                    "sniper": 186,
+                    "free_look": 195
+                },
+                "sensitivity_0_100": {
+                    "general": 100,
+                    "red_dot": 98,
+                    "two_x": 97,
+                    "four_x": 95,
+                    "sniper": 93,
+                    "free_look": 97.5
+                },
+                "notes": "Budget Vivo models — start higher and lower for precision."
+            },
+            "Vivo V-series / S-series": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 186,
+                    "red_dot": 184,
+                    "two_x": 182,
+                    "four_x": 179,
+                    "sniper": 176,
+                    "free_look": 183
+                },
+                "sensitivity_0_100": {
+                    "general": 93,
+                    "red_dot": 92,
+                    "two_x": 91,
+                    "four_x": 89.5,
+                    "sniper": 88,
+                    "free_look": 91.5
+                },
+                "notes": "Midrange Vivo devices — balanced approach."
+            },
+            "Vivo iQOO series": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 183,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91.5,
+                    "free_look": 92.5
+                },
+                "notes": "iQOO is gaming-focused — keep sens tuned for quick tracking."
+            }
+        },
+        "Huawei": {
+            "P20 / P30 / P40 series": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 183,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 91.5,
+                    "free_look": 93
+                },
+                "notes": "Good flagships; adjust sniper to taste."
+            },
+            "Huawei Y / Nova series": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Midrange Nova — balanced config."
+            }
+        },
+        "Motorola": {
+            "Moto G series (G6/G7/G8/G9/G10)": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Moto G phones vary; start mid and tune down for control."
+            },
+            "Moto Edge": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 183,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 91.5,
+                    "free_look": 93
+                },
+                "notes": "Higher-tier Motorola — good for competitive play."
+            }
+        },
+        "Google": {
+            "Pixel / Pixel 2": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Older Pixels — tuned for responsiveness."
+            },
+            "Pixel 3 / 4 / 5 / 6 / 7": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 182,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91,
+                    "free_look": 92.5
+                },
+                "notes": "Pixel series from 3 onward are good gaming phones."
+            }
+        },
+        "Asus": {
+            "ROG Phone (1/2/3/5/6 series)": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 187,
+                    "red_dot": 185,
+                    "two_x": 184,
+                    "four_x": 183,
+                    "sniper": 180,
+                    "free_look": 184
+                },
+                "sensitivity_0_100": {
+                    "general": 93.5,
+                    "red_dot": 92.5,
+                    "two_x": 92,
+                    "four_x": 91.5,
+                    "sniper": 90,
+                    "free_look": 92
+                },
+                "notes": "Gaming-first devices — keep general slightly lower for precise control."
+            },
+            "Zenfone series": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 183,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91.5,
+                    "free_look": 92.5
+                },
+                "notes": "Zenfone Pro models tuned for gaming."
+            }
+        },
+        "Nokia": {
+            "Nokia 2 / 3 / 5 / 6 / 7 / 8": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 194,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 182,
+                    "sniper": 178,
+                    "free_look": 190
+                },
+                "sensitivity_0_100": {
+                    "general": 97,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 91,
+                    "sniper": 89,
+                    "free_look": 95
+                },
+                "notes": "Nokia Android phones vary — use midrange presets."
+            }
+        },
+        "Sony": {
+            "Xperia XZ / 1 / 5 series": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 190,
+                    "red_dot": 188,
+                    "two_x": 187,
+                    "four_x": 185,
+                    "sniper": 183,
+                    "free_look": 186
+                },
+                "sensitivity_0_100": {
+                    "general": 95,
+                    "red_dot": 94,
+                    "two_x": 93.5,
+                    "four_x": 92.5,
+                    "sniper": 91.5,
+                    "free_look": 93
+                },
+                "notes": "Sony flagship models — balanced for accuracy."
+            }
+        },
+        "Lenovo": {
+            "Legion / K series": {
+                "class": "high-end",
+                "sensitivity_0_200": {
+                    "general": 189,
+                    "red_dot": 187,
+                    "two_x": 186,
+                    "four_x": 184,
+                    "sniper": 183,
+                    "free_look": 185
+                },
+                "sensitivity_0_100": {
+                    "general": 94.5,
+                    "red_dot": 93.5,
+                    "two_x": 93,
+                    "four_x": 92,
+                    "sniper": 91.5,
+                    "free_look": 92.5
+                },
+                "notes": "Lenovo Legion is gaming-first — tuned for tracking."
+            }
+        },
+        "Black Shark": {
+            "Black Shark 2 / 3 / 4 / 5": {
+                "class": "ultra",
+                "sensitivity_0_200": {
+                    "general": 187,
+                    "red_dot": 185,
+                    "two_x": 184,
+                    "four_x": 183,
+                    "sniper": 180,
+                    "free_look": 184
+                },
+                "sensitivity_0_100": {
+                    "general": 93.5,
+                    "red_dot": 92.5,
+                    "two_x": 92,
+                    "four_x": 91.5,
+                    "sniper": 90,
+                    "free_look": 92
+                },
+                "notes": "Xiaomi-backed gaming phone — optimized controls."
+            }
+        },
+        "Honor": {
+            "Honor 8 / 9 / 10 / 20 / 50 series": {
+                "class": "mid-end",
+                "sensitivity_0_200": {
+                    "general": 192,
+                    "red_dot": 190,
+                    "two_x": 188,
+                    "four_x": 184,
+                    "sniper": 180,
+                    "free_look": 188
+                },
+                "sensitivity_0_100": {
+                    "general": 96,
+                    "red_dot": 95,
+                    "two_x": 94,
+                    "four_x": 92,
+                    "sniper": 90,
+                    "free_look": 94
+                },
+                "notes": "Honor devices generally map to midrange settings."
+            }
+        },
+        "Others": {
+            "Various_old_models": {
+                "class": "low-end",
+                "sensitivity_0_200": {
+                    "general": 200,
+                    "red_dot": 196,
+                    "two_x": 194,
+                    "four_x": 190,
+                    "sniper": 186,
+                    "free_look": 195
+                },
+                "sensitivity_0_100": {
+                    "general": 100,
+                    "red_dot": 98,
+                    "two_x": 97,
+                    "four_x": 95,
+                    "sniper": 93,
+                    "free_look": 97.5
+                },
+                "notes": "Catch-all for older or unlisted models; start high and tune down."
+            }
+        }
+    }
+}
